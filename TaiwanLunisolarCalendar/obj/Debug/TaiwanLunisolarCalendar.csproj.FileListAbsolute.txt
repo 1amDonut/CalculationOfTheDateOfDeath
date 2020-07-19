@@ -1,0 +1,20 @@
+C:\Users\pizza\AppData\Local\Temporary Projects\TaiwanLunisolarCalendar\bin\Debug\TaiwanLunisolarCalendar.exe.config
+C:\Users\pizza\AppData\Local\Temporary Projects\TaiwanLunisolarCalendar\obj\Debug\TaiwanLunisolarCalendar.csprojResolveAssemblyReference.cache
+C:\Users\pizza\AppData\Local\Temporary Projects\TaiwanLunisolarCalendar\obj\Debug\TaiwanLunisolarCalendar.Form1.resources
+C:\Users\pizza\AppData\Local\Temporary Projects\TaiwanLunisolarCalendar\obj\Debug\TaiwanLunisolarCalendar.Properties.Resources.resources
+C:\Users\pizza\AppData\Local\Temporary Projects\TaiwanLunisolarCalendar\obj\Debug\TaiwanLunisolarCalendar.csproj.GenerateResource.Cache
+C:\Users\pizza\AppData\Local\Temporary Projects\TaiwanLunisolarCalendar\bin\Debug\TaiwanLunisolarCalendar.exe
+C:\Users\pizza\AppData\Local\Temporary Projects\TaiwanLunisolarCalendar\bin\Debug\TaiwanLunisolarCalendar.pdb
+C:\Users\pizza\AppData\Local\Temporary Projects\TaiwanLunisolarCalendar\obj\Debug\TaiwanLunisolarCalendar.exe
+C:\Users\pizza\AppData\Local\Temporary Projects\TaiwanLunisolarCalendar\obj\Debug\TaiwanLunisolarCalendar.pdb
+C:\Users\pizza\AppData\Local\Temporary Projects\TaiwanLunisolarCalendar\obj\Debug\TaiwanLunisolarCalendar.csproj.ResolveComReference.cache
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\obj\Debug\TaiwanLunisolarCalendar.csproj.ResolveComReference.cache
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\obj\Debug\TaiwanLunisolarCalendar.csprojResolveAssemblyReference.cache
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\obj\Debug\TaiwanLunisolarCalendar.Form1.resources
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\obj\Debug\TaiwanLunisolarCalendar.Properties.Resources.resources
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\obj\Debug\TaiwanLunisolarCalendar.csproj.GenerateResource.Cache
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\bin\Debug\對七、百日、對年計算程式.exe.config
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\bin\Debug\對七、百日、對年計算程式.exe
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\bin\Debug\對七、百日、對年計算程式.pdb
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\obj\Debug\對七、百日、對年計算程式.exe
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\obj\Debug\對七、百日、對年計算程式.pdb
