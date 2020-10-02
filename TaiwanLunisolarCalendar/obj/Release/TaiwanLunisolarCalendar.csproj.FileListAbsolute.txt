@@ -1,0 +1,20 @@
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\bin\Release\對七、百日、對年計算程式.exe.config
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\obj\Release\TaiwanLunisolarCalendar.csproj.ResolveComReference.cache
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\bin\Release\對七、百日、對年計算程式.exe
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\bin\Release\對七、百日、對年計算程式.pdb
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\obj\Release\TaiwanLunisolarCalendar.Form1.resources
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\obj\Release\TaiwanLunisolarCalendar.Properties.Resources.resources
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\obj\Release\TaiwanLunisolarCalendar.csproj.GenerateResource.Cache
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\obj\Release\對七、百日、對年計算程式.exe
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\obj\Release\對七、百日、對年計算程式.pdb
+C:\Users\pizza\Documents\Visual Studio 2015\Projects\TaiwanLunisolarCalendar\TaiwanLunisolarCalendar\obj\Release\TaiwanLunisolarCalendar.csprojResolveAssemblyReference.cache
+C:\Users\joshchia1227\Downloads\CalculationOfTheDateOfDeath-master\TaiwanLunisolarCalendar\bin\Release\對七、百日、對年計算程式.exe.config
+C:\Users\joshchia1227\Downloads\CalculationOfTheDateOfDeath-master\TaiwanLunisolarCalendar\obj\Release\TaiwanLunisolarCalendar.csproj.ResolveComReference.cache
+C:\Users\joshchia1227\Downloads\CalculationOfTheDateOfDeath-master\TaiwanLunisolarCalendar\obj\Release\對七、百日、對年計算程式.exe
+C:\Users\joshchia1227\Downloads\CalculationOfTheDateOfDeath-master\TaiwanLunisolarCalendar\obj\Release\對七、百日、對年計算程式.pdb
+C:\Users\joshchia1227\Downloads\CalculationOfTheDateOfDeath-master\TaiwanLunisolarCalendar\obj\Release\TaiwanLunisolarCalendar.csprojResolveAssemblyReference.cache
+C:\Users\joshchia1227\Downloads\CalculationOfTheDateOfDeath-master\TaiwanLunisolarCalendar\obj\Release\TaiwanLunisolarCalendar.Form1.resources
+C:\Users\joshchia1227\Downloads\CalculationOfTheDateOfDeath-master\TaiwanLunisolarCalendar\obj\Release\TaiwanLunisolarCalendar.Properties.Resources.resources
+C:\Users\joshchia1227\Downloads\CalculationOfTheDateOfDeath-master\TaiwanLunisolarCalendar\obj\Release\TaiwanLunisolarCalendar.csproj.GenerateResource.Cache
+C:\Users\joshchia1227\Downloads\CalculationOfTheDateOfDeath-master\TaiwanLunisolarCalendar\bin\Release\對七、百日、對年計算程式.exe
+C:\Users\joshchia1227\Downloads\CalculationOfTheDateOfDeath-master\TaiwanLunisolarCalendar\bin\Release\對七、百日、對年計算程式.pdb
