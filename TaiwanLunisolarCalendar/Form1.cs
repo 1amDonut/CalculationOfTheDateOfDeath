@@ -221,6 +221,7 @@ namespace TaiwanLunisolarCalendar
                             dtt = tls.AddMonths(dtt, -1);
                         }
                         dtt = tls.AddYears(dtt, 1);
+
                         TimeSpan tss = dtt - begin;
                         int day = tls.GetDayOfMonth(dtt);
                         int month = tls.GetMonth(dtt);
@@ -311,14 +312,17 @@ namespace TaiwanLunisolarCalendar
 
             DateTime dtNow = DateTime.ParseExact(strDate.PadLeft(8, '0'), "yyyyMMdd", m_ciTaiwan);
 
-            
+
+            /*test3*/
+           
+            /**/
             string dd = dateTimePicker1.Text;
             dd = dd.Replace("年", ",").Replace("月", ",").Replace("日", ",");
             string[] ddd = { " ", "一", "二", "三", "四", "五", "六", "七", "八", "九", "十", "十一", "十二", "十三", "十四", "十五", "十六", "十七", "十八", "十九", "二十", "二十一", "二十二", "二十三", "二十四", "二十五", "二十六", "二十七", "二十八", "二十九", "三十", "三十一" };
             string[] ss = { "", "秦廣王", "楚江王", "宋帝王", "伍官王", "閻羅王", "變成王", "泰山王", "平等王", "都市王", "輪轉王" };
             string[] arrday = { "", "首七", "二七", "三七", "四七", "五七", "六七", "滿七", "百日", "對年" };
             string[] arr = dd.Split(",".ToCharArray());
-            Dictionary<int,int> lsCalendar = new Dictionary<int,int>() { {2020,4 } };
+            Dictionary<int,int> lsCalendar = new Dictionary<int,int>() { {2020,4 } }
             int a = (int)decimal.Parse(arr[0]);
             int b = (int)decimal.Parse(arr[1]);
             int c = (int)decimal.Parse(arr[2]);
@@ -360,6 +364,7 @@ namespace TaiwanLunisolarCalendar
             string result = string.Empty;
             System.Globalization.TaiwanLunisolarCalendar tls = new System.Globalization.TaiwanLunisolarCalendar();
             DateTime begin = tls.AddDays(DateTime.Now, 0);
+
             Boolean leap = tls.IsLeapYear(TA.GetYear(dt));
             DateTime dtt = tls.ToDateTime(TA.GetYear(dt), TA.GetMonth(dt), TA.GetDayOfMonth(dt), 0, 0, 0, 0);
             
@@ -376,7 +381,6 @@ namespace TaiwanLunisolarCalendar
             }
             label2.Text = string.Format("農曆:{0}/{1}/{2}", TA.GetYear(dtt), TA.GetMonth(dtt), TA.GetDayOfMonth(dtt));
             dtt = tls.AddYears(dtt, 1);
-
 
             TimeSpan tss = dtt - begin;
             int day = tls.GetDayOfMonth(dtt);
