@@ -96,7 +96,7 @@ namespace TaiwanLunisolarCalendar
                         // 設定修改段落起始位置
                         Word.Range rBold2 = word_document.Range(ref oPara2_Start2, ref oPara2_End2);
                         // 設定文字顏色
-                        rBold2.Font.Color = Word.WdColor.wdColorRed;
+                        rBold2.Font.Color = Word.WdColor.wdColorDarkRed;
 
                         oPara2.Range.InsertParagraphAfter();
 
@@ -241,7 +241,7 @@ namespace TaiwanLunisolarCalendar
                         // 設定修改段落起始位置
                         Word.Range rBold4 = word_document.Range(ref oPara4_Start, ref oPara4_End);
                         // 設定文字顏色
-                        rBold4.Font.Color = Word.WdColor.wdColorRed;
+                        rBold4.Font.Color = Word.WdColor.wdColorDarkRed;
                         oPara4.Range.InsertParagraphAfter();
                         //對年
                         string result = string.Empty;
@@ -283,12 +283,21 @@ namespace TaiwanLunisolarCalendar
                         // 設定修改段落起始位置
                         Word.Range rBold5 = word_document.Range(ref oPara5_Start, ref oPara5_End);
                         // 設定文字顏色
-                        rBold5.Font.Color = Word.WdColor.wdColorRed;
+                        rBold5.Font.Color = Word.WdColor.wdColorDarkRed;
                         oPara5.Range.InsertParagraphAfter();
 
                         Word.Paragraph oPara6 = word_document.Content.Paragraphs.Add(ref oMissing);
-                        oPara6.Range.Text = "民間風俗-逝者（對年-足一年）不閏月-閏月-正常計算";
+                        oPara6.Range.Text = "民間風俗-逝者（對年-足一年）不閏月-閏月-正常計算(非閏月死亡-不須提前)";
+                        object oPara6_Start = oPara6.Range.Start + 26;
+                        object oPara6_End = oPara6.Range.End  - 1;
+
+                        // 設定修改段落起始位置
+                        Word.Range rBold6 = word_document.Range(ref oPara6_Start, ref oPara6_End);
+                        // 設定文字顏色
+                        rBold6.Font.Color = Word.WdColor.wdColorDarkBlue;
+                        rBold6.Font.Size = 12;
                         oPara6.Range.InsertParagraphAfter();
+
                         Word.Paragraph oPara7 = word_document.Content.Paragraphs.Add(ref oMissing);
                         oPara7.Range.Text = "忌日祭祀均以農曆計算-"+ Date_of_death;
 
@@ -299,7 +308,8 @@ namespace TaiwanLunisolarCalendar
                         // 設定修改段落起始位置
                         Word.Range rBold7 = word_document.Range(ref oPara7_Start, ref oPara7_End);
                         // 設定文字顏色
-                        rBold7.Font.Color = Word.WdColor.wdColorRed;
+                        rBold7.Font.Color = Word.WdColor.wdColorDarkRed;
+
                         oPara7.Range.InsertParagraphAfter();
 
                         Word.Paragraph oPara3y = word_document.Content.Paragraphs.Add(ref oMissing);
@@ -471,7 +481,7 @@ namespace TaiwanLunisolarCalendar
              month = tls.GetMonth(dtt);
              year = tls.GetYear(dtt);
 
-            label4.Text = string.Format("國歷{3}\n農曆{0}年{1}月{2}日", year, month, day, DateTime.Now.Add(tss).ToString("yyyy/MM/dd"));
+            label4.Text = string.Format("國曆{3}\n農曆{0}年{1}月{2}日", year, month, day, DateTime.Now.Add(tss).ToString("yyyy/MM/dd"));
             
 
         }
